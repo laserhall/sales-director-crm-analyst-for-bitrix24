@@ -1,0 +1,17 @@
+{
+  "deal_id": "12345",
+  "chat_id": "chat99999",
+  "message_count": 8,
+  "contains_raw_text": false,
+  "events": [
+    {"side": "client", "safe_paraphrase": "Asked for price and deadline."},
+    {"side": "manager", "safe_paraphrase": "Requested basic specifications."},
+    {"side": "client", "safe_paraphrase": "Provided quantity and deadline."},
+    {"side": "manager", "safe_paraphrase": "Sent proposal and promised to follow up."}
+  ],
+  "quality_notes": [
+    "Discovery was partial.",
+    "No explicit decision date was captured.",
+    "Next follow-up activity should be scheduled."
+  ]
+}

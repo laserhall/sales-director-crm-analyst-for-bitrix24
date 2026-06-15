@@ -1,0 +1,12 @@
+{
+  "ID": "12345",
+  "STAGE_ID": "C1:PROPOSAL",
+  "CATEGORY_ID": "1",
+  "ASSIGNED_BY_ID": "77",
+  "SOURCE_ID": "WEB",
+  "DATE_CREATE": "2026-01-10T10:15:00+03:00",
+  "DATE_MODIFY": "2026-01-12T16:40:00+03:00",
+  "OPPORTUNITY": "2500.00",
+  "CURRENCY_ID": "USD",
+  "safe_summary": "Synthetic example: customer requested a standard service, proposal sent, no follow-up activity planned."
+}
