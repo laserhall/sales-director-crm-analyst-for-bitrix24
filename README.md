@@ -26,10 +26,8 @@ The skill is designed for owners, heads of sales, RevOps teams, and CRM analysts
 Install the skill from the public raw URL:
 
 ```bash
-hermes skills install https://raw.githubusercontent.com/OWNER/sales-director-crm-analyst-for-bitrix24/main/SKILL.md
+hermes skills install https://raw.githubusercontent.com/laserhall/sales-director-crm-analyst-for-bitrix24/main/SKILL.md
 ```
-
-Replace `OWNER` with the GitHub owner after publishing the repository.
 
 ## Configuration
 
